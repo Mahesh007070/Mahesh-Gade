@@ -3,7 +3,7 @@
 <p align="center"><em>🚀 Passionate Web Developer | Tech Explorer | Lifelong Learner</em></p>
 
 <p align="center">
-  <img src="./assets/mahesh-hero.png" alt="developer" width="700"/>
+  <img src="./assets/WhatsAppImage.jpg" alt="Mahesh Banner" width="700"/>
 </p>
 
 ---
