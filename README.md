@@ -26,9 +26,9 @@ HTML, CSS, JavaScript, React, Node.js, PHP, MongoDB, MySQL, C++, DBMS
 
 ---
 
-## 🌐 
-[![LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BE%2Br6lk4xSBSEjPk4MO29pg%3D%3D)  
-[![Instagram]( https://www.instagram.com/mr__.mahi.___001?igsh=MTNoODd0dW43ZnplYQ== )
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BE%2Br6lk4xSBSEjPk4MO29pg%3D%3D)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram)](https://www.instagram.com/mr__.mahi.___001?igsh=MTNoODd0dW43ZnplYQ==)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=githubpages)](https://gademahesh777.github.io)
 
 ---
